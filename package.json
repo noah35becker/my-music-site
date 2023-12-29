@@ -1,6 +1,6 @@
 {
-  "name": "my-music-site",
-  "homepage": "https://noah35becker.github.io/noah-becker-music-site",
+  "name": "noah-becker-music-site",
+  "homepage": "https://noahbeckermusic.com/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

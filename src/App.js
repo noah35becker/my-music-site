@@ -10,9 +10,11 @@ import './index.css';
 
 // COMPONENT
 function App() {
-    return (<>
-        <ComingSoon />
-    </>);
+    return (
+        <div className='min-vh-100 d-flex flex-column justify-content-center'>
+            <ComingSoon />
+        </div>
+    );
 }
 
 

@@ -5,7 +5,7 @@ import './index.css';
 
 // COMPONENT
 function ComingSoon(){
-    return (<div>
+    return (<div className='text-center'>
         test
     </div>);
 }

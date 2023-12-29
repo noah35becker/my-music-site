@@ -1,15 +1,15 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Noah Becker",
+  "name": "Noah Becker Music",
   "icons": [
     {
-      "src": "logo192.png",
-      "type": "image/png",
+      "src": "noah-becker-logo-192.png",
+      "type": "image/jpg",
       "sizes": "192x192"
     },
     {
-      "src": "logo512.png",
-      "type": "image/png",
+      "src": "noah-becker-logo-512.png",
+      "type": "image/jpg",
       "sizes": "512x512"
     }
   ],

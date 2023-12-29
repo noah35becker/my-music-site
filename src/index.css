@@ -21,4 +21,5 @@ main{
     background-image: url('./assets/noah-with-saxophone.jpg');
     background-repeat: no-repeat;
     background-size: cover;
+    background-position: 42%;
 }

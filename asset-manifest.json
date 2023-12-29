@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/noah-becker-music/static/css/main.40589872.css",
-    "main.js": "/noah-becker-music/static/js/main.75d62b73.js",
-    "static/media/noah-with-saxophone.jpg": "/noah-becker-music/static/media/noah-with-saxophone.3d1363143073d7a69e62.jpg",
-    "index.html": "/noah-becker-music/index.html",
-    "main.40589872.css.map": "/noah-becker-music/static/css/main.40589872.css.map",
-    "main.75d62b73.js.map": "/noah-becker-music/static/js/main.75d62b73.js.map"
+    "main.css": "/noah-becker-music-site/static/css/main.55c86208.css",
+    "main.js": "/noah-becker-music-site/static/js/main.75d62b73.js",
+    "static/media/noah-with-saxophone.jpg": "/noah-becker-music-site/static/media/noah-with-saxophone.3d1363143073d7a69e62.jpg",
+    "index.html": "/noah-becker-music-site/index.html",
+    "main.55c86208.css.map": "/noah-becker-music-site/static/css/main.55c86208.css.map",
+    "main.75d62b73.js.map": "/noah-becker-music-site/static/js/main.75d62b73.js.map"
   },
   "entrypoints": [
-    "static/css/main.40589872.css",
+    "static/css/main.55c86208.css",
     "static/js/main.75d62b73.js"
   ]
 }

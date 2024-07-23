@@ -1,6 +1,7 @@
 
 // IMPORTS
 import ComingSoon from './components/ComingSoon';
+import Header from './components/Header';
 
 import 'bootstrap';  // Bootstrap JS
 
@@ -10,11 +11,13 @@ import './index.css';
 
 // COMPONENT
 function App() {
-    return (
-        <main className='min-vh-100 d-flex flex-column justify-content-center align-items-center'>
+    return (<>
+        <Header></Header>
+
+        <main className='flex-grow-1 d-flex flex-column justify-content-center align-items-center'>
             <ComingSoon />
         </main>
-    );
+    </>);
 }
 
 
